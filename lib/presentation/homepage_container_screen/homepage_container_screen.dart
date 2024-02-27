@@ -1,4 +1,3 @@
-import 'models/homepage_container_model.dart';
 import 'package:fals/core/app_export.dart';
 import 'package:fals/presentation/homepage_page/homepage_page.dart';
 import 'package:fals/widgets/custom_bottom_bar.dart';
